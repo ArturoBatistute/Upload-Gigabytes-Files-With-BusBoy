@@ -3,6 +3,8 @@
 ## Project Dependencies:
 
 * Node.js 15+
+* Http-server
+* Socket.io
 
 ## Running
 
